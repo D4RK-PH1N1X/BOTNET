@@ -1,6 +1,4 @@
-####  Screenshots (current version!):
-
-  ![UFONet](https://ufonet.03c8.net/ufonet/ufonet-marauder-shell-1.png "UFONet Shell")
+####  D4RK-PH1N1X:
 
   ![UFONet](https://i.ibb.co/23gkbqB/USER-SCOPED-TEMP-DATA-orca-image-1715724189.jpg " UFONet Shell")
 #### Installing:
