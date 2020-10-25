@@ -29,24 +29,9 @@ It runs on many platforms. It requires Python (>=3) and the following libraries:
        pip3 install whois
        pip3 install scapy-python3
 
-####  Source libs:
-
-   * Python: https://www.python.org/downloads/
-   * PyCurl: http://pycurl.sourceforge.net/
-   * GeoIP: https://pypi.python.org/pypi/GeoIP/
-   * Python-geoip: https://pypi.org/project/python-geoip/
-   * Pygeoip: https://pypi.org/project/pygeoip/
-   * Whois: https://pypi.python.org/pypi/whois
-   * PyCrypto: https://pypi.python.org/pypi/pycrypto
-   * PyRequests: https://pypi.python.org/pypi/requests
-   * Scapy-Python3: https://pypi.org/project/scapy-python3/
-   * Leaflet: http://leafletjs.com/ (provided)
-
-----------
-
 ####  License:
 
-  UFONet is released under the GPLv3. You can find the full license text
+  UFONet(BOTNET) is released under the GPLv3. You can find the full license text
 in the [LICENSE](./docs/LICENSE) file.
 
 ----------
